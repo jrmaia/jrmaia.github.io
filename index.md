@@ -88,3 +88,10 @@ M3Tec Sistemas | Desenvolvedor Fullstack | 2014 - 2016 | Curtiba-PR
 Global Full Commerce | Desenvolvedor Mobile | 2016 - 2017 | Curitiba-PR
 Global Full Commerce | Desenvolvedor Full Stack | 2017 - 2018 | Curitiba-PR
 Octo Commerce | Desenvolvedor Full Stack | 2018 - atual | Curitiba-PR
+
+### Contato
+
+Email: phpmaia@outlook.com
+Skype: phpmaia@outlook.com
+Linkedin: www.linkedin.com/in/phpmaia
+
