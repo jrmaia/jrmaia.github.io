@@ -1,37 +1,90 @@
-## Welcome to GitHub Pages
+## Junior Maia
 
-You can use the [editor on GitHub](https://github.com/jrmaia/jrmaia.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+### Fullstack Developer
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Viciado em café, desenvolvimento PHP, desenvolvimento Mobile, Lead Magento Developer.
 
 ```markdown
-Syntax highlighted code block
+Ferramentas que normalmente utilizo em projetos:
+# PHPStorm
+# xCode (2014-atual com Swift 3);
+# Eclipse IDE (até 2013 com Android);
+# NetBeans (2012-atual JavaFX);
+# Android Studio (2013 - atual);
+# SQLite Expert (view database Android);
+# Sublime Text 3 (Full-Stack Web);
+# Toad Data Modeler (DER modelagem de dados);
+# GIT linha de comando (Repositório GitHub e Bitbucket);
+# nginx (Server AWS)
+# nginx mod_pagespeed
+# XAMPP Apache;
+# FileZilla FTP Client;
+# WHM e Cpanel (Softlayer IBM Cloud).
+# Cordova + Phonegap
 
-# Header 1
-## Header 2
-### Header 3
+Linguagens:
+# PHP;
+# Java;
+# JavaScript;
+# JQuery;
+# Android Nativo (java api, xml);
+# Swift iOS;
+# HTML, CSS.
 
-- Bulleted
-- List
+Frameworks:
+# Zend Framework;
+# Yii;
+# Angular JS;
+# OnsenUI;
+# Cordova
 
-1. Numbered
-2. List
+Banco de Dados:
+# MySQL
+# PostgreSQL
+# Memcached
+# Elasticsearch
+# Redis
 
-**Bold** and _Italic_ and `Code` text
+Arquitetura de servidores (instalação e workstation):
+# Ambiente Linux CentOS;
+# Amazon AWS EC2 (criação e manutenção me instâncias);
+# Amazon AWS Route53 (Apontamentos DNS);
+# Amazon AWS RDS (criação e manutenção em DB MySQL);
+# Amazon AWS CDN (criação e manutenção em S3[bucket] e CloudFront)
+# Amazon AWS ElasticSearch (criação e manutenção em servers de cache);
+# Manutenção em sistemas de cache (mod_pagespeed, varnish, FPC, Redis e memcache);
+# Ferramentas de disparo de emails (sendgrid, e-goi e PHPmail);
 
-[Link](url) and ![Image](src)
+Conhecimentos específicos:
+# Magento;
+# POO;
+# MVC;
+# Google Play Services;
+# Google Maps;
+# Material Design;
+# Bootstrap;
+# AWS Amazon;
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+[GitHub](https://github.com/jrmaia).
+[Bitbucket](https://bitbucket.org/jrmaia/).
+[StackOverflow](https://stackoverflow.com/users/3979588/junior-maia).
+[GUJ](http://www.guj.com.br/u/JuniorMaia/).
 
-### Jekyll Themes
+### Formação Acadêmica
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jrmaia/jrmaia.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Universidade | Curso | Ano
+------------ | ------------- | -------------
+Unochapecó | Sistemas de Informação | 2008 – 2012
+Estácio | Análise de Sistemas | 2018 - 2020
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Histórico Profissional
+
+Empresa | Cargo | Ano | Cidade
+------------ | ------------- | ------------- | -------------
+CFnet Informática | Técnico em Informática | 2008 – 2012 | Xaxim-SC
+M3Tec Sistemas | Desenvolvedor Fullstack | 2014 - 2016 | Curtiba-PR
+Global Full Commerce | Desenvolvedor Mobile | 2016 - 2017 | Curitiba-PR
+Global Full Commerce | Desenvolvedor Full Stack | 2017 - 2018 | Curitiba-PR
+Octo Commerce | Desenvolvedor Full Stack | 2018 - atual | Curitiba-PR
