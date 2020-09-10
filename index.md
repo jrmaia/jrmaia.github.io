@@ -95,3 +95,7 @@ Email: phpmaia@outlook.com
 Skype: phpmaia@outlook.com
 Linkedin: www.linkedin.com/in/phpmaia
 
+### Whatsapp
+
+(41) 98806-2315
+
